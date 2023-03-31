@@ -1,6 +1,6 @@
 # Redux-With-React-Application_Coder_Dost
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Redux-With-React-Application_Coder_Dost
 
 ## Available Scripts
 
